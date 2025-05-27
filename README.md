@@ -44,7 +44,7 @@ This project follows a structured, data-driven approach to uncover insights and 
 
 Explore the full analysis in our [Marketing Analysis Presentation](./Marketing_Analysis_Presentation.pdf), designed for stakeholders to review key findings and recommendations. Below is a preview of the title slide:
 
-![Presentation Title Slide](./assets/title_slide.png)
+![Marketing Analysis Presentation.pdf](./assets/title_slide.png)
 
 ## 🎯 Goals & Deliverables
 - **Understand Customer Behavior**: Identify factors driving low engagement and conversions.
