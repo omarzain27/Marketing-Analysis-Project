@@ -40,6 +40,12 @@ This project follows a structured, data-driven approach to uncover insights and 
    - Shared clear goals, data-driven insights, and actionable recommendations to enhance engagement and conversions.
    - Highlighted key findings from EDA, sentiment analysis, and KPIs with visually engaging charts.
 
+## 📽️ Presentation
+
+Explore the full analysis in our [Marketing Analysis Presentation](./Marketing_Analysis_Presentation.pdf), designed for stakeholders to review key findings and recommendations. Below is a preview of the title slide:
+
+![Presentation Title Slide](./assets/title_slide.png)
+
 ## 🎯 Goals & Deliverables
 - **Understand Customer Behavior**: Identify factors driving low engagement and conversions.
 - **Optimize Marketing Strategies**: Provide recommendations to improve campaign effectiveness and ROI.
@@ -66,7 +72,7 @@ Based on the analysis, key recommendations include:
 - Iterate on sentiment analysis to track changes in customer feedback over time.
 
 ## 🙌 About Me
-I’m Omar Zain, a passionate data analyst engineer with expertise in Python, SQL, and Power BI. I’m ready to bring data-driven solutions to real-world challenges. Connect with me on [LinkedIn](https://linkedin.com/in/omar-zain-802341168) or check out my projects on [GitHub](https://github.com/omarzain27)! 🌟
+I’m Omar Zain, a passionate data analytics engineer with expertise in Python, SQL, and Power BI. I’m ready to bring data-driven solutions to real-world challenges. Connect with me on [LinkedIn](https://linkedin.com/in/omar-zain-802341168) or check out my projects on [GitHub](https://github.com/omarzain27)! 🌟
 
 ---
 
