@@ -42,9 +42,9 @@ This project follows a structured, data-driven approach to uncover insights and 
 
 ## 📽️ Presentation
 
-Explore the full analysis in our [Marketing Analysis Presentation](./Marketing_Analysis_Presentation.pdf), designed for stakeholders to review key findings and recommendations. Below is a preview of the title slide:
+Explore the full analysis in our [Marketing Analysis Presentation](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/Marketing%20Analysis%20Presentation.pdf), designed for stakeholders to review key findings and recommendations. Below is a preview of the title slide:
 
-[[View PDF](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/Marketing%20Analysis%20Presentation.pdf)
+[View Persentation](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/Marketing%20Analysis%20Presentation.pdf)
 
 ## 🎯 Goals & Deliverables
 - **Understand Customer Behavior**: Identify factors driving low engagement and conversions.
