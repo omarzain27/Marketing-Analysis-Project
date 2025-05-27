@@ -53,7 +53,7 @@ Below are key visuals from the Power BI dashboard, showcasing critical KPIs and 
 
 - **Conversion Rate Trends** 📉  
   Displays monthly conversion rates, highlighting peaks (e.g., 18.5% in January) and lows (e.g., 4.3% in May) to guide targeted campaigns.  
-  ![Conversion Rate Dashboard](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/2.png)
+  ![Conversion Rate Dashboard](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/1.png)
 
 - **Engagement Metrics** 📊  
   Visualizes views, clicks, and likes by content type, with blog content leading in April and July, revealing engagement trends.  
