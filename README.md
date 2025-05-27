@@ -53,15 +53,15 @@ Below are key visuals from the Power BI dashboard, showcasing critical KPIs and 
 
 - **Conversion Rate Trends** 📉  
   Displays monthly conversion rates, highlighting peaks (e.g., 18.5% in January) and lows (e.g., 4.3% in May) to guide targeted campaigns.  
-  ![Conversion Rate Dashboard](./assets/conversion_rates.png)
+  ![Conversion Rate Dashboard](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/2.png)
 
 - **Engagement Metrics** 📊  
   Visualizes views, clicks, and likes by content type, with blog content leading in April and July, revealing engagement trends.  
-  ![Engagement Metrics Dashboard](./assets/engagement_metrics.png)
+  ![Engagement Metrics Dashboard](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/3.png)
 
 - **Sentiment Analysis** 🧠  
   Shows distribution of customer review sentiments (275 positive vs. 82 negative), supporting feedback-driven improvements.  
-  ![Sentiment Analysis Dashboard](./assets/sentiment_analysis.png)
+  ![Sentiment Analysis Dashboard](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/4.png)
 
 
 ## 🎯 Goals & Deliverables
