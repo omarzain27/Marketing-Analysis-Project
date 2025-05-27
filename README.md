@@ -72,7 +72,7 @@ Based on the analysis, key recommendations include:
 - Iterate on sentiment analysis to track changes in customer feedback over time.
 
 ## 🙌 About Me
-I’m Omar Zain, a passionate data analytics engineer with expertise in Python, SQL, and Power BI. I’m ready to bring data-driven solutions to real-world challenges. Connect with me on [LinkedIn](https://linkedin.com/in/omar-zain-802341168) or check out my projects on [GitHub](https://github.com/omarzain27)! 🌟
+I’m Omar Zain, a passionate Data Analytics Engineer with expertise in Python, SQL, and Power BI. I’m ready to bring data-driven solutions to real-world challenges. Connect with me on [LinkedIn](https://linkedin.com/in/omar-zain-802341168) or check out my projects on [GitHub](https://github.com/omarzain27)! 🌟
 
 ---
 
