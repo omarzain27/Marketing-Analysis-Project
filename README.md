@@ -46,6 +46,24 @@ Explore the full analysis in our [Marketing Analysis Presentation](https://githu
 
 [View Persentation](https://github.com/omarzain27/Marketing-Analysis-Project/blob/main/Marketing%20Analysis%20Presentation.pdf)
 
+
+## 🖼️ Dashboard Screenshots
+
+Below are key visuals from the Power BI dashboard, showcasing critical KPIs and insights for ShopEasy’s marketing strategy:
+
+- **Conversion Rate Trends** 📉  
+  Displays monthly conversion rates, highlighting peaks (e.g., 18.5% in January) and lows (e.g., 4.3% in May) to guide targeted campaigns.  
+  ![Conversion Rate Dashboard](./assets/conversion_rates.png)
+
+- **Engagement Metrics** 📊  
+  Visualizes views, clicks, and likes by content type, with blog content leading in April and July, revealing engagement trends.  
+  ![Engagement Metrics Dashboard](./assets/engagement_metrics.png)
+
+- **Sentiment Analysis** 🧠  
+  Shows distribution of customer review sentiments (275 positive vs. 82 negative), supporting feedback-driven improvements.  
+  ![Sentiment Analysis Dashboard](./assets/sentiment_analysis.png)
+
+
 ## 🎯 Goals & Deliverables
 - **Understand Customer Behavior**: Identify factors driving low engagement and conversions.
 - **Optimize Marketing Strategies**: Provide recommendations to improve campaign effectiveness and ROI.
